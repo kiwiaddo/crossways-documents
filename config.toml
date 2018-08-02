@@ -12,8 +12,4 @@ theme = "kube"
 [[menu.main]]
     name = "Policies"
     weight = -100
-    url = "docs/"
-[[menu.main]]
-    name = "Blog"
-    weight = -80
-    url = "blog/"
+    url = "/docs"
