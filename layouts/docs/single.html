@@ -1,0 +1,36 @@
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+  <div id="main">
+    <div id="hero">
+      <h1> {{ .Title}} </h1>
+      {{if .Params.approvedDate}}
+      <span class="label">Approved</span>
+      {{end }}
+      {{if .Params.draft}}
+      <span class="label is-tertiary">This is draft content</span>
+      {{end }}
+      <!-- <p class="hero-lead">
+           {{ .Params.bref | safeHTML }}.
+      </p> -->
+
+    </div> 
+    <div id="kube-component" class="content">
+    <!-- {{ partial "toc" .}} -->
+
+    {{ .Content}}
+
+    {{if .Params.approvedDate}}
+    <span class="label is-secondary">
+      Approved on: {{ dateFormat "January 2006" .Params.approvedDate }}
+    </span>
+    {{ end }}
+<!-- Inject script tag in this template  -->
+    {{if .Params.script}}
+     {{ $script := (delimit (slice "scripts" .Params.script) "/")}}
+    {{ partial (string $script) .}}
+    {{end }}
+    </div>
+    </div>
+{{ end }}
+{{ define "footer"}} {{ partial "footer" .}} {{end}}
