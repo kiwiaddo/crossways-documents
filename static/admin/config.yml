@@ -6,3 +6,16 @@ media_folder: "static/images"
 public_folder: "/images"
 
 publish_mode: editorial_workflow"
+
+collections:
+  name: "doc" # Used in routes, e.g., /admin/collections/blog
+    label: "Document" # Used in the UI
+    folder: "content/docs" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      {label: "Layout", name: "layout", widget: "hidden", default: "doc"}
+      {label: "Title", name: "title", widget: "string"}
+      {label: "Description", name: "title", widget: "string"}
+      {label: "Approved Date", name: "approvedDate", widget: "datetime"}
+      {label: "Body", name: "body", widget: "markdown"}
