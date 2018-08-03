@@ -6,7 +6,6 @@ weight = 20
 draft = false
 bref = ""
 toc = true
-approvedDate = ""
 +++
 
 **Rationale:** (why do we need this policy?)

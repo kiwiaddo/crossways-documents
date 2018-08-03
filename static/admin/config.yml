@@ -17,5 +17,5 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "doc"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string", required: false}
-      - {label: "Approved Date", name: "approvedDate", widget: "datetime", required: false}
+      - {label: "Approved Date", name: "approvedDate", widget: "date", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
