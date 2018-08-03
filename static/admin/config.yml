@@ -5,7 +5,7 @@ backend:
 media_folder: "static/images"
 public_folder: "/images"
 
-publish_mode: editorial_workflow"
+publish_mode: "editorial_workflow"
 
 collections:
   - name: "doc" # Used in routes, e.g., /admin/collections/blog
@@ -16,6 +16,6 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "doc"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "title", widget: "string"}
-      - {label: "Approved Date", name: "approvedDate", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "string", required: false}
+      - {label: "Approved Date", name: "approvedDate", widget: "datetime", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
