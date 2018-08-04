@@ -1,13 +1,13 @@
 +++
 title = "Hazard and Risk Management Policy"
+description = ""
 date = 2018-07-24T21:31:20+12:00
 weight = 20
 draft = false
 bref = ""
 toc = true
-approvedDate = 2018-06-01
+approvedDate = 2018-07-24T21:11:31+12:00
 +++
-
 **Rationale:** (why do we need this policy?)
 
 Crossways Community Crèche is a place of work and learning where

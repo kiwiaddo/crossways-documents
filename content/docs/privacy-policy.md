@@ -8,8 +8,6 @@ bref = ""
 toc = true
 approvedDate = 2018-08-02
 +++
-
-
 **Rationale:** (why do we need this policy?)
 
 The Privacy Act 1993 seeks to promote individual privacy by establishing principles for the collection, use and disclosure of information, which relates to individuals. It also governs how that information is accessed.

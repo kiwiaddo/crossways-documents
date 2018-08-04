@@ -7,7 +7,6 @@ draft = false
 bref = ""
 toc = true
 +++
-
 **Rationale:** (why do we need this policy?)
 
 Cybersafety is the safe and responsible use of Information and Communication Technologies (ICT).
