@@ -6,5 +6,6 @@ weight = 20
 draft = false
 bref = ""
 toc = false
+approvedDate = ""
 +++
 draft content
