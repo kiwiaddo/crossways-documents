@@ -2,7 +2,7 @@
 title = "Excursion Policy"
 date = ""
 weight = 20
-draft = true
+draft = false
 bref = ""
 toc = ""
 approvedDate = 2018-08-07T09:07:42.393Z
