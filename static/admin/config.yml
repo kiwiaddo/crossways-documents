@@ -21,4 +21,5 @@ collections:
       - {label: "BRef", name: "bref", widget: "string", default: "", required: false}
       - {label: "ToC", name: "toc", widget: "boolean", default: "", required: false}
       - {label: "Approved Date", name: "approvedDate", widget: "date", required: false}
+      - {label: "Categories", name: "categories", widget: "list", allow_add: true, required: false}
       - {label: "Body", name: "body", widget: "markdown"}
