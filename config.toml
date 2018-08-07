@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Crossways Community Creche - Documents"
+title = "Crossways Community Creche - Documentation"
 theme = "kube"
 [Params]
   RSSLink = "/index.xml"
