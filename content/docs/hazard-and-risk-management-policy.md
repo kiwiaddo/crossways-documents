@@ -1,6 +1,7 @@
 +++
 title = "Hazard and Risk Management Policy"
 description = ""
+categories = ["Health and Safety"]
 date = 2018-07-24T21:31:20+12:00
 weight = 20
 draft = false
