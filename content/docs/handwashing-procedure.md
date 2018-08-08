@@ -7,7 +7,8 @@ bref = ""
 toc = ""
 approvedDate = 2018-08-08T08:56:45.403Z
 +++
-*Children, staff and others are to wash their hands:*
+**Children, staff and others are to wash their hands:**
+
 * Before preparing, handling, serving and eating food. 
 * After using the toilet, helping a child to use the toilet.
 * After changing nappies or toileting children 
@@ -19,7 +20,7 @@ approvedDate = 2018-08-08T08:56:45.403Z
 * After playing outside
 * As needed
 
-Children are encouraged to:
+**Children are encouraged to:**
 
 * Press the automatic handwashing button
 * Run their hands under the water
