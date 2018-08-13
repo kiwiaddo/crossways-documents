@@ -3,9 +3,10 @@ title = "Transistion to School Policy"
 date = ""
 weight = 20
 draft = false
-bref = ""
-toc = ""
-approvedDate = ""
+draft = false
+toc = false
+approvedDate = 2018-08-07T09:07:42.393Z
+reviewDate = 2019-08-07T09:07:42.393Z
 categories = ["Learning and Teaching"]
 +++
 **Rationale** _(why do we need this policy?)_

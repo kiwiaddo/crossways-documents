@@ -5,9 +5,9 @@ categories = ["Health and Safety"]
 date = 2018-07-24T21:31:20+12:00
 weight = 20
 draft = false
-bref = ""
-toc = true
-approvedDate = 2018-07-24T21:11:31+12:00
+toc = false
+approvedDate = 2018-08-07T09:07:42.393Z
+reviewDate = 2019-08-07T09:07:42.393Z
 +++
 **Rationale:** (why do we need this policy?)
 
@@ -133,7 +133,7 @@ Health and safety training should include:
     > phones, fire extinguishers, fire alarms, emergency exits,
     > emergency meeting points, etc.
 
-**General **
+**General**
 
 The premises, furniture, furnishings, fittings, equipment and materials
 in the centre are kept in good order, safe and hygienic.
@@ -159,7 +159,7 @@ In the outside play space, managing risk may be preferable to
 eliminating it, as this may support children in becoming experienced,
 skilled and knowledgeable in contributing to their own safety.
 
-**References: **
+**References:**
 
 Education \[Early Childhood Services\] Regulations 2008: Regulation 46\
 Licensing Criteria for Early Childhood Education and Care Centres 2008:

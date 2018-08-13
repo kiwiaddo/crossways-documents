@@ -10,9 +10,6 @@
       {{if .Params.draft}}
       <span class="label is-tertiary">This is draft content</span>
       {{end }}
-      <!-- <p class="hero-lead">
-           {{ .Params.bref | safeHTML }}.
-      </p> -->
 
     </div> 
     <div id="kube-component" class="content">
@@ -22,7 +19,13 @@
 
     {{if .Params.approvedDate}}
     <span class="label is-secondary">
-      Approved on: {{ dateFormat "January 2006" .Params.approvedDate }}
+      Approved date: {{ dateFormat "January 2006" .Params.approvedDate }}
+    </span>
+    {{ end }}
+
+    {{if .Params.reviewDate}}
+    <span class="label is-secondary">
+      Review date: {{ dateFormat "January 2006" .Params.reviewDate }}
     </span>
     {{ end }}
 <!-- Inject script tag in this template  -->

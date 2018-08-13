@@ -3,9 +3,9 @@ title = "Handwashing Procedure"
 date = ""
 weight = 20
 draft = false
-bref = ""
-toc = ""
-approvedDate = 2018-08-08T08:56:45.403Z
+toc = false
+approvedDate = 2018-08-07T09:07:42.393Z
+reviewDate = 2019-08-07T09:07:42.393Z
 +++
 **Children, staff and others are to wash their hands:**
 
