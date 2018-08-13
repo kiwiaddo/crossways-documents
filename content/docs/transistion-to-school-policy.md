@@ -3,7 +3,6 @@ title = "Transistion to School Policy"
 date = ""
 weight = 20
 draft = false
-draft = false
 toc = false
 approvedDate = 2018-08-07T09:07:42.393Z
 reviewDate = 2019-08-07T09:07:42.393Z
