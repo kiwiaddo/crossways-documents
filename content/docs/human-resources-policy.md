@@ -7,6 +7,7 @@ approvedDate = 2017-05-01T09:39:15.055Z
 reviewDate = 2019-05-01T09:39:33.883Z
 +++
 **Rationale:** (why do we need this policy?)
+
 Crossways Community Creche wishes to ensure that it is a good and responsible employer and meets all its obligations under relevant legislation.  It has prepared the following document to outline its obligations and that of its employees.  
 
 As per the Licensing Criteria for Early Childhood Education and Care Centres 2008, Crossways Creche is required to implement suitable human resource management practices. These include:
@@ -23,12 +24,14 @@ Related to clause 47(1)(a&e) of standard.
 <http://www.ecc.org.nz/Section?Action=View&Section_id=89>
 
 **Objectives:** (What do we hope to achieve?)
+
 It is the Commitee’s commitment and capability to implement human resource management practices that will recruit, manage and develop competent staff, as the ongoing quality of the staff engaging with and educating children is important in a quality service.
 
 **Guidelines:** (How will we achieve it?)
 
-
 PART 1:  RULES AND POLICIES
+
+
 These rules have been prepared to help answer some of the questions new and existing staff may have about the rules under which we must operate so that everyone is treated fairly.
 
 Absenteeism:	
@@ -119,6 +122,7 @@ All employees will have an annual appraisal, conducted by the Crèche Co-ordinat
 All reasonable steps will be taken to provide staff employed or engaged in Crossways Community Crèche with adequate professional support, professional development opportunities and resources.  
 
 PART 3:  DISCIPLINARY PROCEDURES
+
 
 Where there is an allegation of misconduct (other than serious misconduct) the following procedures shall be observed:
 
