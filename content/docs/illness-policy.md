@@ -3,20 +3,23 @@ title = "Illness Policy"
 weight = 20
 draft = false
 toc = false
-approvedDate = 2016-05-31T12:00:00.000Z
-reviewDate = 2019-05-31T12:00:00.000Z
+approvedDate = 2018-03-31T11:00:00.000Z
+reviewDate = 2020-03-31T11:00:00.000Z
 categories = ["Health and Safety"]
 +++
 **Rationale:** (why do we need this policy?)
+
 Crossways Community Crèche has a responsibility to work with whanau and professionals to provide a healthy environment that supports the wellbeing of the children. Occasionally a child may unexpectedly become ill while attending crèche, requiring us to provide a safe place to give comfort and appropriate care. Illness affecting a child’s wellbeing, may mean they will be unable to attend, to allow time for recovery and to protect the health of the wider community.
 
 **Objectives:** (What do we hope to achieve?)
+
 To ensure skilled and caring attention is provided on occasions of illness, which ensures the wellbeing of the child and others. 
 To assist teachers and whānau in deciding when to make a decision about whether or not to exclude a child on the grounds of ill health. 
 To uphold the health and safety of children by preventing undue exposure to disease, illness or conditions affecting children’s health.
 To ensure that appropriate measures are in place to deal with a large outbreak outbreak of illness or pandemic.
 
 **Guidelines:** (How will we achieve it?)
+
 Well being 
 * We will promote ongoing, open dialogue/communication around child health and wellbeing with children’s whānau. 
 * Teachers will work with whānau to ensure there is common understanding about what will happen when a child is ill, or appears to be becoming ill while attending crèche.    
@@ -37,6 +40,7 @@ Preventing illness
 * Accurate and timely records should be maintained of illness or conditions effecting children and other’s health 
 
 **References:**
+
 Education [Early Childhood Services] Regulations 2008: Regulation 45 and 46
 
 Licensing Criteria for Early Childhood Education and Care Centres 2008: Criterion HS25 First aid qualifications and accident management, HS26 Response to infectious illnesses, HS27 Medical assistance and PF27 Isolation area, Appendix 2: Infectious diseases for criterion HS26
