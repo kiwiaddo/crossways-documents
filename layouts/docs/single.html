@@ -3,6 +3,14 @@
 {{ define "main"}}
   <div id="main">
     <div id="hero">
+      <div id="blog-categories" style="font-size:0.8rem; text-align:center; padding: 0 0 1rem;">
+        {{ if .Params.categories }}
+        <a href="{{ "categories/" | relURL }}">Categories</a> / 
+        {{ range $index, $category := .Params.categories }}{{ if gt $index 0 }}, {{ end }}
+        <a href="{{ "categories/" | relURL }}{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+        {{ end }}
+      </div>
       <h1> {{ .Title}} </h1>
       {{if .Params.approvedDate}}
       <span class="label">Approved</span>
