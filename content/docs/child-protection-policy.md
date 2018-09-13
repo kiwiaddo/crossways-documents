@@ -5,6 +5,7 @@ draft = false
 toc = false
 approvedDate = 2016-01-05T11:00:00.000Z
 reviewDate = 2019-01-05T11:00:00.000Z
+categories = ["Health and Safety"]
 +++
 **Rationale:** (why do we need this policy?)
 
