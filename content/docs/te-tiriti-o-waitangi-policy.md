@@ -7,7 +7,7 @@ approvedDate = 2018-09-30T22:52:35.446Z
 reviewDate = 2021-09-30T11:00:00.000Z
 categories = ["Learning and Teaching"]
 +++
-**Rationale: **(why do we need this policy?) 
+**Rationale:** (why do we need this policy?) 
 
 Te Tiriti o Waitangi, New Zealand’s founding document, underpins the bicultural heritage of Aotearoa and gives guidance to our educational aspirations for all children. Crossways Community Crèche Early Learning Centre is committed to honouring the unique place of Mäori as tangata whenua and the principle of partnership inherent in Te Tiriti o Waitangi, including the right to participation, protection and self-determination. 
 
