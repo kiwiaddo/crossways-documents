@@ -53,7 +53,7 @@ Through Manaakitanga the creche can support children to be welcoming and accepti
 
 By exploring whakapapa children can establish their connectedness to their whenua, tupuna and whanau through whakapapa. This helps the child understand their relationship to the land and to their families which in turn nourishes the mauri of the child.
 
-**Glossary: **
+**Glossary:**
 
 Kawa - protocol
 
