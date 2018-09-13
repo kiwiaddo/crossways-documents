@@ -3,8 +3,8 @@ title = "Te Tiriti o Waitangi Policy"
 weight = 20
 draft = false
 toc = false
-approvedDate = 2018-09-30T22:52:35.446Z
-reviewDate = 2021-09-30T11:00:00.000Z
+approvedDate = ""
+reviewDate = ""
 categories = ["Learning and Teaching"]
 +++
 **Rationale:** (why do we need this policy?) 
