@@ -1,7 +1,7 @@
 +++
 title = "Self Review Policy"
 weight = 20
-draft = true
+draft = false
 toc = false
 approvedDate = ""
 reviewDate = ""
