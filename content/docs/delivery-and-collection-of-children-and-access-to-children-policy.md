@@ -3,8 +3,8 @@ title = "Delivery and Collection of Children  and Access to Children Policy"
 weight = 20
 draft = false
 toc = false
-approvedDate = 2018-10-01T07:13:24.690Z
-reviewDate = 2020-10-01T07:13:24.691Z
+approvedDate = ""
+reviewDate = ""
 categories = ["Management and Administration"]
 +++
 **Rationale:** (why do we need this policy?)
