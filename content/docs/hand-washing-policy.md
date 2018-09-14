@@ -3,8 +3,8 @@ title = "Hand Washing Policy"
 weight = 20
 draft = false
 toc = false
-approvedDate = 2016-01-02T11:00:00.000Z
-reviewDate = 2019-01-02T11:00:00.000Z
+approvedDate = 2016-01-03T11:00:00.000Z
+reviewDate = 2019-01-03T11:00:00.000Z
 categories = ["Health and Safety"]
 +++
 **Rationale:** (why do we need this policy?)
