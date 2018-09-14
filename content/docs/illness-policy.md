@@ -3,8 +3,8 @@ title = "Illness Policy"
 weight = 20
 draft = false
 toc = false
-approvedDate = 2018-03-31T11:00:00.000Z
-reviewDate = 2020-03-31T11:00:00.000Z
+approvedDate = 2018-05-31T12:00:00.000Z
+reviewDate = 2019-05-31T12:00:00.000Z
 categories = ["Health and Safety"]
 +++
 **Rationale:** (why do we need this policy?)
