@@ -3,8 +3,8 @@ title = "Social Competency Policy"
 weight = 20
 draft = false
 toc = false
-approvedDate = ""
-reviewDate = ""
+approvedDate = 2018-09-30T11:00:00.000Z
+reviewDate = 2021-09-30T11:00:00.000Z
 categories = ["Learning and Teaching"]
 +++
 **Rationale:** (why do we need this policy?)
