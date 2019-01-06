@@ -69,7 +69,7 @@ Time and space is provided for kaiako to record and analyse each child’s signi
 
 
 
-**References **
+**References**
 
 Drummond, M.J. (2012). Assessing children’s learning. New York, NY: Routledge
 
