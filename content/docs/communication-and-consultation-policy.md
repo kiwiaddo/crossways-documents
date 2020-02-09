@@ -3,8 +3,8 @@ title = "Communication and Consultation Policy"
 weight = 20
 draft = false
 toc = false
-approvedDate = 2016-12-01T07:20:02.870Z
-reviewDate = 2018-12-01T07:20:02.871Z
+approvedDate = 2018-11-01T07:20:02.870Z
+reviewDate = 2021-10-31T11:00:00.000Z
 categories = ["Management and Administration"]
 +++
 **Rationale:** (why do we need this policy?)
