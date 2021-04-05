@@ -36,7 +36,7 @@ The following strategies will ensure children and adults experience a sun safe e
 7. Sun-safe and shaded areas will be utilised, to ensure children have access to shaded play, living and learning spaces.
 8. Sensible sun exposure allows for the body to develop vitamin D, while avoiding getting sunburnt. Sunsmart advises that exposure to sunlight when UV levels are low should provide enough vitamin D for keeping healthy.
 
- **References:**
+**References:**
 
 Regulation 46 (1)(a), 45 Criteria
 
