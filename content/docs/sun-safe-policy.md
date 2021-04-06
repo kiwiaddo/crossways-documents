@@ -4,7 +4,7 @@ weight = 20
 draft = false
 toc = false
 approvedDate = 2020-02-29T20:23:45.829Z
-reviewDate = 2023-03-31T11:00:00.000Z
+reviewDate = 2023-02-28T11:00:00.000Z
 categories = ["Health and Safety"]
 +++
 **Rationale:** (why do we need this policy?)
@@ -49,3 +49,9 @@ Te Whāriki:
 Well-being – Goal 1. Children experience an environment where their health is promoted.
 
 Well-being Goal 4. Children are kept safe from harm.
+
+
+
+**Date approved:** March 2020
+
+**Next review due:** March 2023
