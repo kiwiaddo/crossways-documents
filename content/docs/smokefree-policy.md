@@ -3,21 +3,17 @@ title = "Smokefree Policy"
 weight = 20
 draft = false
 toc = false
-approvedDate = 2018-04-01T09:26:57.425Z
-reviewDate = 2020-04-01T08:26:57.426Z
+approvedDate = 2020-02-29T11:00:00.000Z
+reviewDate = 2023-03-01T08:26:57.426Z
 categories = ["Health and Safety"]
 +++
 **Rationale:** (why do we need this policy?)
 
-Children and adults will experience an environment where they are protected from the harmful effects of smoking.
-
-
+We want to ensure children and adults will experience an environment where they are protected from the harmful effects of smoking and vaping, and that the crèche meets its legal obligations under the Smoke-free Environments Act 1990.
 
 TE WHĀRIKI
 
 Well-being - Goal 1: Children experience an environment where their health is promoted.
-
-
 
 **Objectives:** (What do we hope to achieve?)
 
@@ -29,28 +25,21 @@ prevent children and young people being influenced by seeing others smoke;
 
 send a positive message about a smoke-free/auahi kore lifestyle as the norm.
 
-
-
 **Guidelines:** (How will we achieve it?)
 
-Smoking is prohibited at all times - 24 hours a day, seven days a week within the buildings or the grounds of the crèche, on crèche excursions and at official crèche socials. 
-
-Smoke-free signs are displayed at all entrances to the crèche premises and at every outer entrance to every building or enclosed area forming part of the crèche premises.
-
-The crèche’s Smoke-free Policy is promoted in the Enrolment Guidelines to ensure new families and caregivers are informed of the policy.
-
-All staff members must report to the Co-ordinator or Supervisor immediately, when they identify any adult, staff member, visitor or child attempting to light or use a cigarette or other device or product that creates smoke in a prohibited area or during a crèche outing/social occasion.
-
-When a ‘smoker’ is attempting to come onto, or is present in a smoke-free area, the Co-ordinator or Supervisor will advise the person that their presence and action is unlawful (‘the Crèche is required by law to be smoke-free’) and if they persist, then they are requested to leave the area immediately and/or put out the cause of the smoke.
-
-The Co-ordinator or Supervisor is responsible for receiving/actioning/resolving complaints.
-
-If the Co-ordinator or Supervisor is unable to resolve the complaint satisfactorily, the complaint will be taken to the Crèche Management Committee for resolution.
+1. Smoking and vaping are prohibited at all times - 24 hours a day, seven days a week: 
+   a.	within the buildings or the grounds of the crèche, 
+   b.	on crèche excursions and 
+   c.	at official crèche social events. 
+2. Smoking and vaping are discouraged in the immediate vicinity of crèche (ie, on footpaths outside).
+3. Smoke-free signs are displayed at all entrances to the crèche premises and at every outer entrance to every building or enclosed area forming part of the crèche premises.
+4. The crèche’s Smoke-free Policy is outlined in the Enrolment Guidelines to ensure new families and caregivers are informed of the policy.
+5. All relievers will be reminded that the crèche has a Smoke-Free Policy in place.
+6. All staff members must report to a senior teacher immediately if they identify any adult, staff member, visitor or child attempting to light or use a cigarette or other device or product that creates smoke in a prohibited area or during a crèche outing/social occasion.
+7. If someone who is smoking or vaping attempts to come onto, or is present in a smoke-free area, the senior teacher will advise the person that their presence and action is unlawful (‘the crèche is required by law to be smoke-free’) and if they persist, then they are requested to leave the area immediately and/or put out the cause of the smoke.
 
 
+   Note: In this policy, ‘smoking’ is used as a general term that includes use of cigarettes, cigars etc, as well as vaping. 
 
-
-
-**References:** 
-
+References: 
 Licensing Criteria for Early Childhood Education and Care Centres 2008: Criterion HS8, HS32 Smoking
