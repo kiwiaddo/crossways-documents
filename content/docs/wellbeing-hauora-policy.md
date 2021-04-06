@@ -1,10 +1,10 @@
 +++
-title = "Wellbeing/Hauora Policy"
+title = "Hauora/Wellbeing Policy"
 weight = 20
 draft = false
 toc = false
-approvedDate = 2018-04-01T09:29:44.332Z
-reviewDate = 2020-04-01T08:29:44.332Z
+approvedDate = 2020-09-30T11:00:00.000Z
+reviewDate = 2023-09-30T11:00:00.000Z
 categories = ["Health and Safety"]
 +++
 **Rationale:** (why do we need this policy?)
