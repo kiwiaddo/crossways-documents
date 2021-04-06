@@ -49,9 +49,3 @@ Te Whāriki:
 Well-being – Goal 1. Children experience an environment where their health is promoted.
 
 Well-being Goal 4. Children are kept safe from harm.
-
-
-
-**Date approved:** March 2020
-
-**Next review due:** March 2023
