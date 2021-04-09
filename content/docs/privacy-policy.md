@@ -52,12 +52,17 @@ The Privacy Act covers personal information - that is any information which is c
 5. Individuals will be entitled to have access to personal information held about them or their child, unless there are good reasons to withhold it.  Parents are able to request that any incorrect information held be corrected.  Good reasons for withholding information are set out in Part 4 of the Privacy Act and include where disclosure may endanger the health or safety of any individual or where the information is evaluative and was given in confidence.
 6. A notice will be displayed on the main notice-board identifying the Privacy Officer for the Crèche.  This will usually be the Senior Teacher.
 
-   **Guidelines for privacy of information regarding children**
-7. It is important that consent is given by a child’s legal guardians before any personal information on a child or his/her whänau is shared.  The enrolment form includes a consent form to be completed by a child’s legal guardian at the time of enrolment.
-8. If a child’s legal guardian does not consent to the disclosure of any particular personal information, this should be clearly marked (e.g. written in capitals and highlighted) on that child’s records to safeguard against accidental disclosure.
-9. In providing information about a child, care should be taken to prevent unnecessary and/or unauthorised disclosure of other personal information about that child or any other child e.g. by blocking out information or names.
-10. In the absence of a proper consent, a child’s personal information generally can be given only to the child’s legal guardian(s).  If there is any uncertainty over whether the information can be shared, it is best to contact a legal guardian of the child and to ask if the information requested can be given to the person/agency asking for it, or if they would like to contact the person/agency directly.
-11. Nothing in clause 10 prevents disclosure to professional agencies such as the Police or Child Youth and Family, or to a health professional, in circumstances where the health or safety of the child may be at risk.
+**Guidelines for privacy of information regarding children**
+
+It is important that consent is given by a child’s legal guardians before any personal information on a child or his/her whänau is shared.  The enrolment form includes a consent form to be completed by a child’s legal guardian at the time of enrolment.
+
+If a child’s legal guardian does not consent to the disclosure of any particular personal information, this should be clearly marked (e.g. written in capitals and highlighted) on that child’s records to safeguard against accidental disclosure.
+
+In providing information about a child, care should be taken to prevent unnecessary and/or unauthorised disclosure of other personal information about that child or any other child e.g. by blocking out information or names.
+
+In the absence of a proper consent, a child’s personal information generally can be given only to the child’s legal guardian(s).  If there is any uncertainty over whether the information can be shared, it is best to contact a legal guardian of the child and to ask if the information requested can be given to the person/agency asking for it, or if they would like to contact the person/agency directly.
+
+Nothing in clause 10 prevents disclosure to professional agencies such as the Police or Child Youth and Family, or to a health professional, in circumstances where the health or safety of the child may be at risk.
 
 **Review**
 
