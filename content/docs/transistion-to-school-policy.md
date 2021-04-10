@@ -1,37 +1,49 @@
 +++
-title = "Transistion to School Policy"
-date = ""
+title = "Transition to School Pathways Policy"
 weight = 20
 draft = false
 toc = false
-approvedDate = 2018-08-07T09:07:42.393Z
-reviewDate = 2019-08-07T09:07:42.393Z
+approvedDate = 2020-08-03T09:07:42.393Z
+reviewDate = 2022-08-01T09:07:42.393Z
+date = ""
 categories = ["Learning and Teaching"]
 +++
-**Rationale** _(why do we need this policy?)_
+**Rationale: (why do we need this policy?)**
+Transition to the Crossway learning community, and to school, are times of change for children and their whānau (family). Change can be both challenging and exciting; it is a time of adjustment to new relationships, environments and routines.  As they navigate new pathways, it is our shared responsibility to manaaki (support) each child towards an ongoing sense of belonging. Providing consistency of relationship, environment, and culture can strengthen the child’s pathway towards positive learning outcomes for the present and into the future.
 
-At the centre we recognise that primary school learning environments are quite different to early childhood settings. Our aim is to prepare children emotionally, socially, cognitively, and physically for school. We aim to empower children with a love of learning so that the transition from the centre to primary school is as smooth as possible.
+**Objectives:** (What do we hope to achieve?)
 
-TE WHĀRIKI
+Children and their whānau develop confidence and trust to explore and establish new relationships with people, place and things of the learning community.
 
-Contribution - Goal 3: Children experience an environment where they are encouraged to
+The child's image of themselves and their mana (power, sense of self) are protected by continuity of experience between home and centre and between learning environments 
 
-learn with and alongside others.
+By providing consistency of experiences children feel competent and secure in their learning environments, routines and relationships.
 
-**Objectives** _(What do we hope to achieve?)_
 
-To ensure children attending Crossways Community Crèche are prepared for and experience a smooth transition to school.
+**Guidelines:** (How will we achieve it?)
 
-To reassure parents and children that going to school is a pleasant, normal and natural transition.
+1. Transition is viewed as a time when Kaiako (teachers) and whānau work together towards what is best for the child.
+2. As we reflect on each child’s experience of transition, we ask the question:
+   How do we support this child and their whanau to develop confidence and trust to explore and establish new relationships with people, place and things?
+3. Kaiako encourage whānau to share their values, wants and aspirations for their child and thoughtfully weave them into learning experiences.  
+4. Kaiako support children by paying close attention to each child’s voice, affirming their identity and culture, connecting with and building on their strengths, and have positive expectations for their learning.  
+5. Children transition smoothly when they: are prepared, 
 
-**Guidelines** _(How will we achieve it?)_
+   know what is about to change, 
 
-Discussions are held with the children about going to school in a positive and reassuring manner.  
+   know what they need to do, and 
 
-Children's books with school as their theme are used to assist the staff in their discussions.
+   have caring, responsive Kaiako to support them.
+6. We make our approaches visible, so whānau clearly know how we are caring for and who is mentoring their child. 
+7. Predictable relationships and experiences help children to manage challenging circumstances or stressful experiences. 
+8. Nurturing confidence and trust promotes children’s courage, interest in and tolerance of unfamiliar experiences.
+9. Kaiako work towards establishing warm, secure relationship with child and whānau, ensuring opportunity to develop close, responsive and trusting relationships with consistent caregivers who know the child well.
+10. Kaiako and Crossways committee work to build the membership of the child and their whānau into the community by helping the child and their whānau to contribute to and connect with the routines, rituals and artefacts of this place.
+11. We seek to ensure there is connectedness in learning and experiences for the child between this learning community and the next. 
 
-Parents are encouraged to visit the schools available to them after their child's fourth birthday.  Parents are advised to review the schools Education Review Office reports to assist them make a decision.  These are available on-line at: <http://www.ero.govt.nz/review-reports/>
-
-Parents are encouraged to make contact with their chosen school before their child's fifth birthday.  
-
-Parents are encouraged to take their child for several visits before starting school, preferably at different times during school hours including when children need to be more independent such as lunchtimes.  Parents are also encouraged to spend time in the playground during the weekend, prior to starting school.
+**References**
+Education (Early Childhood Services) Regulations 2008
+Te whāriki: Belonging - Goal 3: Children and their whānau experience an environment where they feel comfortable with the routines, customs, and regular events.
+Te whāriki: Pathway to school and Kura p51 -52.
+Licensing Criteria for Centre Based ECE Services: C6, C7, C11, C12; GMA1 GMA2 GMA3.
+Listening to different perspectives (Transitions in ECE) Keryn Davis, University of Canterbury, 2009
