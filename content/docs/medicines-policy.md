@@ -8,6 +8,7 @@ reviewDate = 2022-10-30T11:00:00.000Z
 categories = ["Health and Safety"]
 +++
 **Rationale:** (why do we need this policy?)
+
 At Crossways Community Crèche the health and safety of each child is paramount.  On occasion we are required to administer medicines to maintain a child’s wellbeing.  At these times we must ensure that all medicines (prescription and non-prescription) are approved for a particular child, administered and stored appropriately and safely, and accurate records are maintained.
 
 \
@@ -57,7 +58,6 @@ Medicine (prescription and non-prescription) will not be given to a child unless
 * by the parent of the child; or
 * with the authority (appropriate to the category of medicine) of the child’s parent/guardian
 
-
 A medication register must be maintained recording all medicine (prescription and non-prescription) given to children attending. Records must include:
 
 * name of the child
@@ -76,7 +76,6 @@ Adults who administer medicine must be provided with relevant information and tr
 Adults who administer medicine are required to double check name, expiry date and that medicine is the correct dosage.
 
 If staff have any concerns that the child is having an adverse reaction after a medication was administered, immediate action should be taken. In mild cases, this might involve only contacting the child’s parents.
-
 
 **References:** 
 Education \[Early Childhood Services] Regulations 2008: Regulation 46
