@@ -23,7 +23,7 @@ Crossways Community Crèche has a responsibility in protecting the health and we
 * On enrolment, parents will be asked to provide their child’s Immunisation certificate for a teacher to sight and copy 
 * The immunisation record can be found on the back page of the Well child – Tamariki Ora health book. A record of immunisation can also be provided by a doctor or practice nurse
 
-  The immunisation record should be viewed on enrolment, at 15 months and 4 years.
+  * The immunisation record should be viewed on enrolment, at 15 months and 4 years.
 
 
 * The child’s immunisation certificate/record should be copied and filed with their enrolment for
@@ -33,7 +33,7 @@ Crossways Community Crèche has a responsibility in protecting the health and we
 * Parents have the right to view only their child’s recorded immunisation information
 * Only the Medical Officer of Health may view the information on the register without parental consent. The Immunisation register may be used by the Medical Officer of Health to identify unimmunised children during an outbreak of a vaccine preventable disease. 
 
-  A Medical Officer of Heath is a public health physician (doctor) who specialises in the health of groups / communities; they are designated by the Director General of Health
+  * A Medical Officer of Heath is a public health physician (doctor) who specialises in the health of groups / communities; they are designated by the Director General of Health
 
 
 * In case of an outbreak of a vaccine preventable disease (except tetanus), teachers and the Medical Officer of Health have the authority to require that the child with the illness remain at home to prevent the spread of infection.
