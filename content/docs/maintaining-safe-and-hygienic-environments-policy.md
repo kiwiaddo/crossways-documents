@@ -26,14 +26,12 @@ Good hygiene is essential for reducing the risk of cross infection. In group set
   * the method of cleaning (including cleaning and disinfecting agents and frequency of cleaning)
 
 
-
 * Surfaces and objects contaminated by biohazards/body fluids must be given special consideration when cleaning to ensure they are not only cleaned to remove visible soiling but also disinfected to remove unseen bacteria and viruses.
 * Linen should be laundered regularly, including:
 
   * between use by different children, 
   * when soiled
   * at least weekly. 
-
 
 
 * If possible linen should be sun dried, otherwise tumble-dried. 
