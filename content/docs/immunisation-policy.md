@@ -27,6 +27,8 @@ Crossways Community Crèche has a responsibility in protecting the health and we
 
 
 
+
+
 * The child’s immunisation certificate/record should be copied and filed with their enrolment for
 * The information on the child’s immunisation record must be recorded on the Crossways Community Crèche Immunisation Register
 * If, after two requests, no immunisation information has been provided, this must be recorded as “Certificate not shown”
@@ -35,6 +37,10 @@ Crossways Community Crèche has a responsibility in protecting the health and we
 * Only the Medical Officer of Health may view the information on the register without parental consent. The Immunisation register may be used by the Medical Officer of Health to identify unimmunised children during an outbreak of a vaccine preventable disease. 
 
   * A Medical Officer of Heath is a public health physician (doctor) who specialises in the health of groups / communities; they are designated by the Director General of Health
+
+
+
+
 
 
 
