@@ -9,12 +9,9 @@ categories = ["Management and Administration"]
 +++
 **Rationale:** (why do we need this policy?)
 
-
 To ensure we can act on feedback and concerns constructively.
 
-
 To ensure a sensitive and transparent approach is taken to investigating complaints about all aspects of the operation, including non-compliance with the Education (Early Childhood Services) Regulations 2008 and associated licensing criteria.
-
 
 To ensure we follow current employment legislation and best practice for employers, in addition to the requirements of the collective agreement in place for our staff.
 
@@ -32,7 +29,6 @@ To ensure we follow current employment legislation and best practice for employe
 **A concern** is any low-level query or statement by a parent/caregiver, employee or other individual which relates to an employee, a teaching or management practice or decision, or other aspect of the service’s policies or operations. This is most likely to be resolved by discussion, clarification, information or very low-level corrective measures only – not disciplinary action.
 
 **A complaint** is a more serious statement made by a parent/caregiver, employee or other individual which relates to an employee, a professional or management practice or decision, or other aspect of the service’s policies or operations that has not met that person’s expectations for some reason.
-
 
 **Scope:** (What does the policy cover?)
 This policy covers:
@@ -78,3 +74,7 @@ We will:
 11. Be impartial.
 12. Consider each complaint separately.
 13. Seek outside assistance as appropriate with agreement of the parties to resolve issues eg, union, mediation.
+
+
+
+![](/images/flow-chart.jpg)
