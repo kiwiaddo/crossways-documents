@@ -1,5 +1,5 @@
 +++
-title = "Caring for animals Policy  "
+title = "Caring for Animals Policy  "
 weight = 20
 draft = false
 toc = false
