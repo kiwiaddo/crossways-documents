@@ -3,17 +3,13 @@ title = "First Aid Policy"
 weight = 20
 draft = false
 toc = false
-approvedDate = 2018-04-01T09:00:38.189Z
-reviewDate = 2020-04-01T08:00:38.190Z
+approvedDate = 2020-08-03T09:00:38.189Z
+reviewDate = 2023-08-07T09:00:38.190Z
 categories = ["Health and Safety"]
 +++
 **Rationale:** (why do we need this policy?)
 
 To provide a safe and healthy environment for children, whànau, teachers, and others, Crossways Community Crèche is required to appropriately manage any event that causes actual or potential harm. This includes having a person available at all times with a recognised First Aid qualification and ensuring First aid kits are maintained and stored safely, so qualified adults can find the necessary provisions for administering first aid and documenting incidents. 
-
-
-
-
 
 **Objectives:** (What do we hope to achieve?)
 
@@ -23,19 +19,15 @@ To ensure there are adequate provisions available for the treatment of minor inj
 
 To ensure adults can easily find the necessary provisions for administering first aid; and children cannot access any hazardous materials themselves.
 
-
-
 **Guidelines:** (How will we achieve it?)
 
-Providing First Aid	
+**Providing First Aid**	
 
 Adults qualified to provide first aid include
 
-An adult who holds a current First Aid qualification gained from a NZQA accredited first aid training provider; or
-
-a registered medical practitioner or nurse with a current practising certificate; or
-
-a qualified ambulance officer or paramedic.
+1. An adult who holds a current First Aid qualification gained from a NZQA accredited first aid training provider; or
+2. a registered medical practitioner or nurse with a current practising certificate; or
+3. a qualified ambulance officer or paramedic.
 
 There must always be a qualified adult available to administer first aid when children are attending the centre or while out on a trip.
 
@@ -43,9 +35,11 @@ All permanent teachers are required to have a current first aid qualification.
 
 A record must be maintained of all accidents and first aid given. Parents/guardians are to be advised of any accident/incident involving their child in accordance with the accident procedure.
 
-First Aid provisions 
+**First Aid provisions** 
 
-A comprehensive primary First Aid kit must be available for everyday use at the centre at all times. A basic portable First Aid kit must be taken on all trips outside of the centre. 
+A comprehensive primary First Aid kit must be available for everyday use at the centre at all times. 
+
+A basic portable First Aid kit must be taken on all trips outside of the centre. 
 
 In the case of an emergency evacuation a basic First Aid kit should be available for a quick exit of the building.  A comprehensive First Aid kit should be included in the Civil defence emergency supplies. 
 
@@ -58,8 +52,6 @@ The Primary First Aid kit should be placed near a water source where injured chi
 First aid kits should be well stocked at all times in accordance with the list of first aid kit contents found in Appendix 1: First aid requirements for Criterion PF28.
 
 The Health and Safety officer will ensure the first aid kits are maintained on a regular basis. 
-
-
 
 **References:** 
 
