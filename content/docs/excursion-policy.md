@@ -1,11 +1,11 @@
 +++
 title = "Excursion Policy"
-date = ""
 weight = 20
 draft = false
 toc = false
-approvedDate = 2018-08-07T09:07:42.393Z
-reviewDate = 2019-08-07T09:07:42.393Z
+approvedDate = 2020-10-05T08:07:42.393Z
+reviewDate = 2023-10-02T08:07:42.393Z
+date = ""
 categories = ["Health and Safety"]
 +++
 **Rationale:** (why do we need this policy?)
@@ -18,29 +18,26 @@ Well-being - Goal 1: Children experience an environment where their health is pr
 
 **Objectives:** (What do we hope to achieve?)
 
-Outing and excursion planning includes risk assessment, ensuring adequate adult: child ratios and gaining parental consent.
-
-Parents, whanau and caregivers need to be comfortable with, and aware of, their childrens whereabouts and who they are with at all times. Conditions during outings and excursions need to be safe and appropriate.
+1. Outing and excursion planning includes risk assessment, ensuring adequate adult: child ratios and gaining parental consent.
+2. Parents, whanau and caregivers need to be comfortable with, and aware of, their children's whereabouts and who they are with at all times. 
+3. Conditions during outings and excursions need to be safe and appropriate.
+4. We strengthen the children’s connection to place and community through use of excursions.
 
 **Guidelines:** (How will we achieve it?)
 
 * Planning for each outing and excursion includes setting ratios, route mapping, risk assessment, method of travel and names of adults and children. The planning is detailed in the outing book which is available to all parents.
+* In most circumstances, teachers will not deviate from the planned outing route. However, if it is not possible to proceed with the planned outing route, the teaching staff will undertake an assessment of whether it is appropriate to adopt an alternative plan, or to return to the centre.
 
-* Teachers will not deviate from the planned outing route.
-
+  * If an alternative route is adopted, information about the alternative will be communicated to the centre.
+  * If it is not possible to get in touch to communicate a change in plans, then it is not appropriate to deviate from the original plan.
 * Teachers take a first aid kit, cell phone, and all other necessary supplies on all outings and excursions.
-
 * We gain written permission from parents at the time of enrolment for spontaneous outings and local community excursions.
-
 * We notify parents of any outings or excursions planned for the children via the parents’ notice board and the outings book.
-
-* Before leaving on a planned excursion we gain written permission from parents. They sign the outing book. 
-
+* Before leaving on a planned excursion, we gain written permission from parents. They sign the outing book.
 * We maintain appropriate ratios to match children’s ages and abilities and government regulation ratios.
-
 * Parents will be required to meet the cost of any special outings or excursions. Notice will be given of any cost involved and this money should be paid prior to the outing. Children will not be excluded from outings because a parent cannot afford the outing.
-
 * We ensure adequate staff remain in the centre.
+* The role and responsibilities of any parents/caregivers who accompany an outing will be clearly communicated to them.
 
 **References:**
 
