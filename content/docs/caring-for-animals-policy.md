@@ -18,7 +18,6 @@ Animals may be brought into the Crossways environment as:
 
 Crossways recognises its legal obligations to animals under the Animal Welfare Act 1999 and its moral responsibilities with regard to other invertebrate animals, including the fundamental principles of care and respect.
 
-
 **Objectives:** (What do we hope to achieve?)
 
 * To ensure that animals at the service do not pose a health and safety risk to children
@@ -51,7 +50,6 @@ If appropriate care and facilities cannot be provided, animals will not be kept.
 
 Native animals will be kept only if Crossways can meet the requirements of Wildlife Act 1953. 
 ●	In general, a permit from the Department of Conservation is required to keep any species of native animal (including invertebrates such as wētā). 
-
 
 **References:**
 Health and safety practices for early childhood centres Criterion HS16 - Animals (https://www.education.govt.nz/early-childhood/licensing-and-regulations/the-regulatory-framework-for-ece/licensing-criteria/centre-based-ece-services/health-and-safety/hazards-and-outings/hs16-animals/) 
