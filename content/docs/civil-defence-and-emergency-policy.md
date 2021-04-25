@@ -3,8 +3,8 @@ title = "Civil Defence and Emergency Policy"
 weight = 20
 draft = false
 toc = false
-approvedDate = 2016-11-30T11:00:00.000Z
-reviewDate = 2018-11-30T11:00:00.000Z
+approvedDate = 2020-10-04T11:00:00.000Z
+reviewDate = 2022-10-02T11:00:00.000Z
 categories = ["Health and Safety"]
 +++
 **Rationale:** (why do we need this policy?)
@@ -14,17 +14,14 @@ All possible preparations and precautions must be taken to ensure the safety, pr
 **Objectives:** (What do we hope to achieve?)
 
 To appoint authority to Senior Teacher (or Person Responsible) in the event of an emergency.
-To inform all parties (parents, children, teachers, visitors) of the guidelines and processes in place for preparation, response and
-recovery for both civil defence and other emergencies.
+To inform all parties (parents, children, teachers, visitors) of the guidelines and processes in place for preparation, response and recovery for both civil defence and other emergencies.
 
 **Guidelines:** (How will we achieve it?)
 
 Have an emergency plan in place that has been created in alliance with the relevant local authorities. That covers how to
 
 * Prepare for emergencies
-* Procedures covering how to respond to civil defence, fire, tsunami, earthquake, and trespasser or violent intruder emergencies. Procedures will be displayed on the wall at all times. Fire Action Plans are to be located in every room beside every exit door, on the notice board, and above the table with the sign in/out book, and next to all manual call
-  points. Exits will be clearly marked.
-* Recovery response
+* Procedures covering how to respond to civil defence, fire, tsunami, earthquake, and trespasser or violent intruder emergencies. 
 
   * Emergency Kits: Ensure sufficient and regularly maintained emergency kits on premises to provide emergency
     supplies for support of children and staff for up to 72 hours.
