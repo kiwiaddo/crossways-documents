@@ -49,7 +49,7 @@ Animals’ basic needs will be met according to the conditions needed for that p
 If appropriate care and facilities cannot be provided, animals will not be kept. 
 
 Native animals will be kept only if Crossways can meet the requirements of Wildlife Act 1953. 
-●	In general, a permit from the Department of Conservation is required to keep any species of native animal (including invertebrates such as wētā). 
+In general, a permit from the Department of Conservation is required to keep any species of native animal (including invertebrates such as wētā). 
 
 **References:**
 Health and safety practices for early childhood centres Criterion HS16 - Animals (https://www.education.govt.nz/early-childhood/licensing-and-regulations/the-regulatory-framework-for-ece/licensing-criteria/centre-based-ece-services/health-and-safety/hazards-and-outings/hs16-animals/) 
