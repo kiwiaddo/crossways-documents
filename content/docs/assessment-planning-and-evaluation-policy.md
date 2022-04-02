@@ -3,8 +3,8 @@ title = "Assessment, Planning and Evaluation Policy"
 weight = 20
 draft = false
 toc = false
-approvedDate = 2018-11-01T02:44:44.141Z
-reviewDate = 2021-10-31T11:00:00.000Z
+approvedDate = 2022-03-30T02:44:44.141Z
+reviewDate = 2024-03-29T11:00:00.000Z
 categories = ["Learning and Teaching"]
 +++
 **Rationale:** (why do we need this policy?) 
