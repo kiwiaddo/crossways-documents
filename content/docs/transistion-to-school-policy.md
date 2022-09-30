@@ -3,8 +3,8 @@ title = "Transition to School Pathways Policy"
 weight = 20
 draft = false
 toc = false
-approvedDate = 2020-08-03T09:07:42.393Z
-reviewDate = 2022-08-01T09:07:42.393Z
+approvedDate = 2022-09-27T08:07:42.393Z
+reviewDate = 2024-09-27T09:07:42.393Z
 date = ""
 categories = ["Learning and Teaching"]
 +++
