@@ -3,8 +3,8 @@ title = "Child Protection Policy"
 weight = 20
 draft = false
 toc = false
-approvedDate = 2021-05-09T12:00:00.000Z
-reviewDate = 2024-05-12T12:00:00.000Z
+approvedDate = 2022-09-27T11:00:00.000Z
+reviewDate = 2025-05-12T12:00:00.000Z
 categories = ["Health and Safety"]
 +++
 **Rationale:** (why do we need this policy?)
@@ -21,7 +21,6 @@ To support families/whānau to protect their children.
 **Guidelines:** (How will we achieve it?)
 
 **Definition:** Child abuse: Includes physical, emotional and sexual abuse as well as neglect which is the direct consequence of a deliberate act or omission by an adult, and which has the potential or effect of serious harm to the child.
-
 
 **Recruitment and employment (safety checking)**
 Safety checking will apply to the following:
@@ -105,8 +104,10 @@ This policy will be reviewed at least every three years
 Phone 0508 326 459
 Email contact@ot.govt.nz
 
-
 **References:** 
 Licensing Criteria for Early Childhood Education and Care Centres 2008, HS31, HS32, HS33, GMA7A
 Safer Organisations, Safer Children – Children’s Action Plan (2015)
-Children Act 2014 – Early Learning Centre Requirements
+
+Children Act 2014 – Early Learning Centre Requirements 
+
+Making an effective report of concern © Safeguarding Children Initiative
