@@ -1,5 +1,5 @@
 +++
-title = "Transition to School Pathways Policy"
+title = "Transition Pathways Policy"
 weight = 20
 draft = false
 toc = false
