@@ -31,9 +31,8 @@ Definitions:
 
 Risk is the likelihood injury or illness might occur when a person is exposed to a hazard. 
 
-
-
-**Guidelines:** (How will we achieve it?)
+**\
+Guidelines:** (How will we achieve it?)
 
 So far as is reasonably practicable, all steps must be taken to maintain the health and safety of all people who dwell or work within our environments.  
 
@@ -45,9 +44,7 @@ Management has the primary duty of care to
 * Ensure there are processes for receiving information on and  responding to incidents, hazards and risks
 * Ensure workplace health and safety processes and resources are being used.
 
- 
-
-Workers and other adults have a duty to:
+ Workers and other adults have a duty to:
 
 * Take reasonable care for their own health and safety
 * Take reasonable care that they do not adversely affect the health and safety of other people
@@ -82,7 +79,7 @@ Health and safety training should include:
 * Identifying the location of first aid kits, Civil Defence kits, phones, fire extinguishers, fire alarms, emergency exits, emergency meeting points, etc.
 * Safe use and storage of personal belongings eg out of reach of children  
 
-General 
+**General** 
 
 * The premises, furniture, furnishings, fittings, equipment and materials in the centre are kept in good order, safe and hygienic.
 * Parents and appropriate authorities must be kept informed of accidents and illnesses where appropriate, and appropriate records are kept to meet licensing and other legislative requirements.
