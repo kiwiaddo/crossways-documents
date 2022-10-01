@@ -9,12 +9,12 @@ categories = ["Health and Safety"]
 +++
 **Rationale:** (why do we need this policy?)
 
-Crossways Community Crèche has a responsibility to work with whanau and professionals to provide a healthy environment that supports the wellbeing of the children. Occasionally a child may unexpectedly become ill while attending crèche, requiring us to provide a safe place to give comfort and appropriate care. Illness affecting a child’s wellbeing, may mean they will be unable to attend, to allow time for recovery and to protect the health of the wider community.
+Crossways Community Crèche has a responsibility to work with whanau and professionals to provide a healthy environment that supports the wellbeing of the children. Occasionally a child may unexpectedly become ill while attending, requiring us to provide a safe place to give comfort and appropriate care. Illness affecting a child’s wellbeing, may mean they will be unable to attend, to allow time for recovery and to protect the health of the wider community.
 
 **Objectives:** (What do we hope to achieve?)
 
 * To ensure skilled and caring attention is provided on occasions of illness, which ensures the wellbeing of the child and others. 
-* To assist teachers and whānau in deciding when to make a decision about whether or not to exclude a child on the grounds of ill health.
+* To assist teachers and whānau in deciding about whether or not to exclude a child on the grounds of ill health.
 * To uphold the health and safety of children by preventing undue exposure to disease, illness or conditions affecting children’s health
 * To ensure that appropriate measures are in place to deal with a large outbreak outbreak of illness or pandemic.
 
@@ -23,7 +23,7 @@ Crossways Community Crèche has a responsibility to work with whanau and profess
 Well being 
 
 * We will promote ongoing, open dialogue/communication around child health and wellbeing with children’s whānau. 
-* Teachers will work with whānau to ensure there is common understanding about what will happen when a child is ill, or appears to be becoming ill while attending crèche.    
+* Teachers will work with whānau to ensure there is common understanding about what will happen when a child is ill, or appears to be becoming ill while attending.    
 * Where a child unexpectedly becomes ill with a general or infectious condition, their parents/guardians will be contacted promptly. We will ensure there is a suitable place for their care, where they can lie down comfortably, and be closely supervised until they can be collected and taken home.  
 * In the case of a serious illness occurring or noticed at crèche which requires immediate medical attention, all reasonable steps will be promptly taken to get medical assistance and to notify parents/guardians or emergency contacts. 
 * A child with a chronic illness will have an individual health plan developed in consultation with their parents/guardians, detailing actions for management of the condition while attending crèche. 
@@ -37,7 +37,7 @@ Exclusion
 
 Preventing illness
 
-* In the case of a child being or becoming ill while attending crèche all practicable steps must be taken to isolate the child while ensuring physical and emotional wellbeing of the child, and the wider group.
+* In the case of a child being or becoming ill while attending, all practicable steps must be taken to isolate the child while ensuring physical and emotional wellbeing of the child, and the wider group.
 * When an illness appears to be affecting many children or adults, the Wellington Public Health Unit should be contacted for advice and information. 
 * Hygiene and cleaning routines will be consistently maintained and reviewed regularly.  
 * Accurate and timely records should be maintained of illness or conditions effecting children and other’s health 
