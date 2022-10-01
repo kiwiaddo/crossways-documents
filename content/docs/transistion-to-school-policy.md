@@ -9,7 +9,7 @@ date = ""
 categories = ["Learning and Teaching"]
 +++
 **Rationale: (why do we need this policy?)**
-Transition to the Crossway learning community, and to school, are times of change for children and their whānau (family). Change can be both challenging and exciting; it is a time of adjustment to new relationships, environments and routines.  As they navigate new pathways, it is our shared responsibility to manaaki (support) each child towards an ongoing sense of belonging. Providing consistency of relationship, environment, and culture can strengthen the child’s pathway towards positive learning outcomes for the present and into the future.
+Transition to the Crossway learning community, and to school, are times of change for children and their whānau. Change can be both challenging and exciting; it is a time of adjustment to new relationships, environments and routines.  As they navigate new pathways, it is our shared responsibility to manaaki (support) each child towards an ongoing sense of belonging. Providing consistency of relationship, environment, and culture can strengthen the child’s pathway towards positive learning outcomes for the present and into the future.
 
 **Objectives:** (What do we hope to achieve?)
 
@@ -18,7 +18,6 @@ Children and their whānau develop confidence and trust to explore and establish
 The child's image of themselves and their mana (power, sense of self) are protected by continuity of experience between home and centre and between learning environments 
 
 By providing consistency of experiences children feel competent and secure in their learning environments, routines and relationships.
-
 
 **Guidelines:** (How will we achieve it?)
 
@@ -39,7 +38,7 @@ By providing consistency of experiences children feel competent and secure in th
 8. Nurturing confidence and trust promotes children’s courage, interest in and tolerance of unfamiliar experiences.
 9. Kaiako work towards establishing warm, secure relationship with child and whānau, ensuring opportunity to develop close, responsive and trusting relationships with consistent caregivers who know the child well.
 10. Kaiako and Crossways committee work to build the membership of the child and their whānau into the community by helping the child and their whānau to contribute to and connect with the routines, rituals and artefacts of this place.
-11. We seek to ensure there is connectedness in learning and experiences for the child between this learning community and the next. 
+11. We seek to ensure there is continuity in learning and experiences for the child between this learning community and the next. 
 
 **References**
 Education (Early Childhood Services) Regulations 2008
