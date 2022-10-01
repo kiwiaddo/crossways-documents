@@ -3,8 +3,8 @@ title = "Medical Assistance and Incident Management Policy"
 weight = 20
 draft = false
 toc = false
-approvedDate = 2020-08-31T09:22:18.311Z
-reviewDate = 2022-08-31T09:22:18.312Z
+approvedDate = 2022-09-27T08:22:18.311Z
+reviewDate = 2024-08-27T09:22:18.312Z
 categories = ["Health and Safety"]
 +++
 **Rationale:** (why do we need this policy?)
