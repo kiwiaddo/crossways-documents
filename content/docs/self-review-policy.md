@@ -1,10 +1,10 @@
 +++
-title = "Internal Review and Evaluation Policy"
+title = "Self-review and Internal Evaluation Policy"
 weight = 20
 draft = false
 toc = false
-approvedDate = 2021-04-04T12:00:00.000Z
-reviewDate = 2022-04-03T12:00:00.000Z
+approvedDate = 2022-09-26T11:00:00.000Z
+reviewDate = 2024-04-05T11:00:00.000Z
 categories = ["Management and Administration"]
 +++
 **Rationale:** (why do we need this policy?)
@@ -48,3 +48,6 @@ Education (Early Childhood Services) Regulations 2008: 47. Licensing Criteria: G
 Effective School Evaluation: How to do and use internal evaluation for improvement. Ministry of Education 2015
 Te Whāriki online tewhariki.tki.org.nz
 Nga Arohaehae Whai Hua: Self-review Guidelines for Early Childhood Education
+Te Ara Poutama – Indicators of quality for early childhood education: what matters most. This resource builds on Effective Internal Evaluation for Improvement (2016)
+Ngā aronga whai hua Improving quality in early childhood education through effective internal and external evaluation
+NELP priorities 1-6
