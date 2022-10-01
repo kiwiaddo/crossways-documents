@@ -3,8 +3,8 @@ title = "Child Protection Policy"
 weight = 20
 draft = false
 toc = false
-approvedDate = 2022-09-27T11:00:00.000Z
-reviewDate = 2025-05-12T12:00:00.000Z
+approvedDate = 2022-09-26T11:00:00.000Z
+reviewDate = 2025-09-25T12:00:00.000Z
 categories = ["Health and Safety"]
 +++
 **Rationale:** (why do we need this policy?)
